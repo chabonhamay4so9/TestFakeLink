@@ -27,9 +27,9 @@ class App extends Component {
     return (
       <div>
         <Head>
-          {this.props.props.parsedMetaTags.map((tag, index) => (
-            <meta key={index} {...tag} />
-          ))}
+          // {this.props.props.parsedMetaTags.map((tag, index) => (
+          //   <meta key={index} {...tag} />
+          // ))}
           
           {/* Add additional meta tags */}
           <meta property="og:title" content="Tiêu đề nè" />
