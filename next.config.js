@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    url:"https://rabbleit.com/v276qwq7sj?key=5f26839007fba1f0eb99906692fa87c5"
+    url:"https://rabbleit.com/yg8tx7fc6?key=ef0374de4901b9b2135b803adefad289"
   },
 }
 
